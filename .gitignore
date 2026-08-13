@@ -1,0 +1,7 @@
+# Runtime logs and per-game decision history
+log.txt
+AI决策日志/
+
+# Locally exported settings snapshots
+大模型AI设置-*.json
+
